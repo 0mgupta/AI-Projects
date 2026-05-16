@@ -16,7 +16,7 @@
 # @st.cache_resource
 # def get_pipeline():
 #     return PredictionPipeline(load_models=True)
-
+   
 # try:
 #     pipeline = get_pipeline()
 # except Exception as e:
