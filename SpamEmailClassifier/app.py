@@ -20,7 +20,7 @@
 # try:
 #     pipeline = get_pipeline()
 # except Exception as e:
-#     st.error(f"Error loading models: {str(e)}")
+#     st.error(f"Error loading models: {str(e)}").  
 #     st.stop()
 
 # st.title("📧 Spam Email Classifier")
