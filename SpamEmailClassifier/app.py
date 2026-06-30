@@ -8,7 +8,7 @@
 # # Page configuration
 # st.set_page_config(
 #     page_title="Spam Email Classifier",
-#     page_icon="📧",
+#     page_icon="📧",   
 #     layout="centered"
 # )
 
