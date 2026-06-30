@@ -12,7 +12,7 @@
 #     layout="centered"
 # )
 
-# # Initialize pipeline
+# # Initialize pipeline    
 # @st.cache_resource
 # def get_pipeline():
 #     return PredictionPipeline(load_models=True)
