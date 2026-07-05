@@ -3,7 +3,7 @@
 # import tempfile
 # import os
 # import time
-# from src.pipeline.prediction_pipeline import PredictionPipeline
+# from src.pipeline.prediction_pipeline import PredictionPipeline    
 
 # # Page configuration
 # st.set_page_config(
